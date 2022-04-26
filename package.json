@@ -1,0 +1,11 @@
+{
+  "name": "brocord",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/node": "^17.0.27",
+    "ts-node": "^10.7.0"
+  },
+  "dependencies": {
+    "winston": "^3.7.2"
+  }
+}
